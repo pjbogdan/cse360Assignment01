@@ -52,7 +52,7 @@ public class AddingMachine
 		  total = 0;
 	  }
 	  
-	  public static void main(String[] args)
+	  /*public static void main(String[] args)
 	  {
 		  AddingMachine myCalculator = new AddingMachine();
 		  
@@ -63,5 +63,5 @@ public class AddingMachine
 		  
 		  System.out.println(myCalculator.getTotal());
 		  System.out.println(myCalculator.toString());
-	  }
+	  }*/
 	}
